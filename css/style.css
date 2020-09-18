@@ -1,5 +1,9 @@
 /* GENERAL */
 
+@font-face{
+    font-family: 'Lato';
+    src: url("Lato-Light.woff");
+}
 
 body{
     font-family: 'Lato', sans-serif;
