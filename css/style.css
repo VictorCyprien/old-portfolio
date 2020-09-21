@@ -335,6 +335,52 @@ ul, ol{
 }
 
 
+/* PROJETS */
+
+
+#project{
+    background: linear-gradient(45deg, #9dc66b 5%, #4fa49a 40%, #4361c2);
+}
+
+#project .heading h2{
+    color: #fff;
+}
+
+#project .block-project{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 5px;
+    background: #ccc;
+    border-radius: 10px;
+    border: 2px solid #ccc;
+    margin-bottom: 20px;
+    filter: grayscale(100%);
+}
+
+#project .block-project:hover{
+    filter: none;
+}
+
+#project .block-project-text{
+    background: #fff;
+    margin-left: 35px;
+    width: 280px;
+    border-radius: 10px;
+    
+}
+
+#project .block-project-text h3{
+    text-align: center;
+    text-shadow: 0.5px 0.5px 0.5px #000;
+}
+
+#project .block-project-text p{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+
 /* PORTFOLIO */
 
 /* RIEN... */
